@@ -5,7 +5,7 @@
 
 <h2 align="center">Introdução</h2>
 
-<p align="justify">Esse repositório foi criado com o objetivo de compartilhar questões de lógica de programação com JS retiradas de grandes descolas de Desenvolvimento. As questões dispobilizadas são contribuições públicas. As questões serão resolvidas e as resoluções se econtrarão dentro do repositório. A ideia é fazer com qeu você pratique sua lógica de programação tentando resolver as questões sem antes cunsulta-lás. Bons estudos! </p>
+<p align="justify">Esse repositório foi criado com o objetivo de compartilhar questões de lógica de programação com JS retiradas de diferentes escolas de Desenvolvimento. As questões dispobilizadas são contribuições públicas. Elas serão resolvidas e as resoluções se econtrarão dentro do repositório. A ideia é fazer com que você pratique tentando resolver as questões sem antes consultar as resoluções. Bons estudos! </p>
 
 ## Sumário
 
