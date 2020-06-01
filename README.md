@@ -95,6 +95,6 @@
 
 ### Resoluções
 
-1 - Clone o projeto e o abra utilizando seu editor preferido.
+1 - Clique na pasta: Lógica.
 
 2 - Encontre a questão de acordo com o tópico.
