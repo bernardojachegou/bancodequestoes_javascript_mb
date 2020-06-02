@@ -13,6 +13,7 @@
 > * [Condicionais](#condicionais)
 > * [Laços de repetição](#laços)
 > * [Arrays](#arrays)
+> * [Desafios](#desafios)
 > * [Resoluções](#resoluções)
 
 <h2 align="center">Questões</h2>
@@ -92,6 +93,18 @@
 6 - Escreva a função saldoDeMesesComLucro. Você pode usar a mesma estrutura do exercício dos exercícios anteriores.
 
 7 - Queremos escrever uma função naipeDeTruco, que dado um naipe, devolva uma lista de strings, uma por cada carta desse naipe seguindo as cartas do truco. Lembre-se que as cartas de truco incluem todas as cartas numeradas de 1 a 12, com exceção das cartas 8 e 9.
+
+### Desafios
+
+1 - Escreva as seguintes funções: 1. acontece, que diz se a aula sucederá de acordo com o array dos estudantes que entraram. 2. aberturas, que utiliza um array com os arrays dos estudantes que entraram nos outros dias, e a quantidade mínima de estudantes, e diga quais os dias em que as aulas aconteceram e quais não.Por exemplo:
+<code> 
+    
+    acontece(alunosDaSegunda, 2)
+    true
+    
+    aberturas([alunosDaSegunda, alunosDaTerça, alunosDaQuarta], 2)
+    [true, false, false]
+</code>
 
 ### Resoluções
 
