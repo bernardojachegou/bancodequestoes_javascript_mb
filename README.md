@@ -5,11 +5,9 @@
 
 <h2 align="center">Introdução</h2>
 
-<p align="justify">Esse repositório foi criado com o objetivo de compartilhar questões de lógica de programação com JS retiradas de diferentes escolas de Desenvolvimento. As questões dispobilizadas são contribuições públicas. Elas serão resolvidas e as resoluções se econtrarão dentro do repositório. A ideia é fazer com que você pratique tentando resolver as questões sem antes consultar as resoluções. Bons estudos! </p>
+<p align="justify">Esse repositório foi criado com o objetivo de compartilhar questões de lógica de programação com JS. As questões dispobilizadas aqui serão resolvidas e as resoluções se econtrarão dentro do repositório. A ideia é fazer com que você pratique tentando resolver as questões sem antes consultar as resoluções. Bons estudos! </p>
 
 ## Sumário
-
-> * [Digital House](#digital)
 > * [Variáveis](#variáveis)
 > * [Funções](#funções)
 > * [Condicionais](#condicionais)
@@ -18,8 +16,6 @@
 > * [Resoluções](#resoluções)
 
 <h2 align="center">Questões</h2>
-
-### Digital
 
 ### Variáveis
 
@@ -99,6 +95,6 @@
 
 ### Resoluções
 
-1 - Clone o projeto e o abra utilizando seu editor preferido.
+1 - Clique na pasta: Lógica.
 
 2 - Encontre a questão de acordo com o tópico.
