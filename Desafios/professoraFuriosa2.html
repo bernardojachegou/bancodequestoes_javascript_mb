@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professora Furiosa 02</title>
+</head>
+
+<body>
+    <script>
+        // Desafio professora Furiosa:
+        // Minha Resolução:
+        var alunosDaSegunda = [10, -5, 3, 0];
+        var alunosDaTerca = [5, 7, -5, 1];
+        var alunosDaQuarta = [-10, -2, -5, 4];
+
+        function acontece(estudantes, quantidadeParaAula) {
+            let pontuais = 0;
+
+            for (let i = 0; i < estudantes.length; i++) {
+                if (estudantes[i] >= 0) {
+                    pontuais += 1;
+                }
+            }
+
+            return (pontuais >= quantidadeParaAula); //Haverá aula
+        }
+        console.log(acontece(alunosDaSegunda, 2));
+
+
+        function aberturas(diasDaSemana, quantidadeParaAula) {
+            let relatorio = [];
+            for (let i = 0; i < diasDaSemana.length; i++) {
+                relatorio.push(acontece(diasDaSemana[i], quantidadeParaAula));
+            }
+
+            return relatorio;
+        }
+        console.log(aberturas([alunosDaSegunda, alunosDaTerca, alunosDaQuarta], 2));
+    </script>
+</body>
+
+</html>
