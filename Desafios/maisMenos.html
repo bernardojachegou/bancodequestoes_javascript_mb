@@ -24,11 +24,11 @@
 
             for (var contador = 0; contador < quantidade; contador++) { //Enquanto contador for menor que a quantidade repita o loop
                 if (arrayNumeros[contador] < 0) { //Se qualquer elemento do array for menor que zero:
-                    negativos = negativos + 1; //Adiciona esse elemento dentro da variável negativos
+                    negativos += 1; //Adiciona esse elemento dentro da variável negativos
                 } else if (arrayNumeros[contador] > 0) { //Se qualquer elemento do array for maior que zero:
-                    positivos = positivos + 1; //Adiciona esse elemento dentro da variável positivos
+                    positivos += 1; //Adiciona esse elemento dentro da variável positivos
                 } else { //Se não for nenhum dos casos anteriores,
-                    zeros = zeros + 1; //Adiciona o elemento na variável zeros
+                    zeros += 1; //Adiciona o elemento na variável zeros
                 }
             }
             //Com os elementos já alocados corretamente faça as operações:
