@@ -106,6 +106,20 @@
     [true, false, false]
 </code>
 
+2 - Necessitamos uma função produto que receba um array de números e retorne o produto: o resultado de multiplicar todos os elementos entre si. Por exemplo, produto([1, 4, 7]) deve retornar 28, que é 1 * 4 * 7.
+
+3 - Escreva uma função fatorial, que calcule o fatorial de um número.
+
+4 - Necessitamos uma função maisMenos que receba um array e retorne outro com os seguintes três números:
+    
+    1. na primeira posição, a fração de números que são positivos
+
+    2. na segunda posição, a fração de números que são zero
+
+    3. na última posição, a fração de números que são negativos
+
+Por exemplo, maisMenos([1, 2, 0, -1]) deveria retornar[0.5, 0.25, 0.25], devido a que há 50 % de positivos, 25 % de zeros, e 25 % de negativos.
+
 ### Resoluções
 
 1 - Clique na pasta: Lógica.
