@@ -126,6 +126,31 @@ Por exemplo:
 
 Por exemplo, maisMenos([1, 2, 0, -1]) deveria retornar[0.5, 0.25, 0.25], devido a que há 50 % de positivos, 25 % de zeros, e 25 % de negativos.
 
+5 - Escreva uma função escada que utilize uma altura (um número) e retorne um array que represente a escada correspondente. Não esqueça que o espaço " " faz parte da resposta. Queremos representar uma escada com altura variável, utilizando um array de strings. Por exemplo, uma escada com altura 3, representaremos com o seguinte array:
+
+<code> 
+    var escada3 = [
+        "  #",
+        " ##",
+        "###"
+    ]
+</code>
+
+6 - Escreva a função alturaArvoreUtopica, que utilize uma quantidade de ciclos de crescimento, e retorne a altura resultante da árvore de Laura. As árvores utópicas crescem de uma forma particular, em dois ciclos:
+    1- cada primavera dobram seu tamanho
+    
+    2- cada verão crescem um metro
+
+    Se Laura planta uma árvore utópica com um metro, no final do outono, qual seria sua altura depois de N ciclos? Alguns exemplos:
+
+    si N = 0, sua altura será 1 metro(não cresceu nada)
+
+    si N = 1, sua altura será de 2 metros(dobrou a altura na primavera)
+
+    si N = 2, sua altura será de 3 metros(cresceu um metro mais no verão)
+
+    si N = 3, sua altura será de 6 metros(dobrou a altura na primavera seguinte)
+
 ### Resoluções
 
 1 - Clique na pasta: Lógica.
